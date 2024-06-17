@@ -30,8 +30,8 @@
 > 18. Y usamos <br />![image](https://github.com/salvador0401/Chat-Bot/assets/77693692/a01ac1a2-0dcf-42ee-88f7-d9abd9e82b62) <br /> con el fin de empezar a entrenar a tu bot
 > 19. Ya que se este entrenando saldra esto cada 100 pasos los pasos se refiere a las iteraciones que hace el entrenamiento:<br />![image](https://github.com/salvador0401/Chat-Bot/assets/77693692/cf8c93ec-a03d-4213-8bda-971995b3db9d)<br />Cada 100 paso se dara un informe como este en el cual te dira informacion importante como lo es cuanto tarda en dar cada paso, las palbaras por segundo usadas, ppl que es perplexity un IA la cual ayuda a que nuestro bot maneje un lenguaje natural entre mas bajo es mejor, el gn que es el gradiente normal el cual se debe de mantener bajo e indica si va explotar o no el entranmiento en pocas palabras y el bleu el cual debe de subir y significa cuanto elocuencia y sentido tiene los textos que escribe segun la el texto que tu le pongas.<br />Toma en cuenta que el belu al menos en mi caso no subio y que puede que tenga momentos en medio del entrenamiento que empiece a hablar con soltura si lo vez en condiocnes para el programa pues si se deja mucho tiempo puede que en el siguiente checkpoint deje de decir cosas coherentes
 > 20. en medio del entrenamiento puedes probarlo abre otro anaconda prompt y activa tu enviroment del chat bot dirigite a la carpeta del proyecto dentro de nmt y escribe python inference.py <br /> Con esto podras porbar como va tu bot y preguntarle cosas:<br />![image](https://github.com/salvador0401/Chat-Bot/assets/77693692/9c5eb422-1b5e-434c-9e55-144544bb5837)
-  
-
+# Bibliografias<br />
+> https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
 
 
 
